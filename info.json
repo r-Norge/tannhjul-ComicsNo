@@ -1,0 +1,9 @@
+{
+    "AUTHOR" : "Roxedus",
+    "INSTALL_MSG" : "Im going to try not crash your server",
+    "NAME" : "MultiCodeReply",
+    "SHORT" : "Bot repeats what it is given, in quotes",
+    "DESCRIPTION" : "ya",
+    "TAGS" : ["utility", "fun"],
+    "HIDDEN" : false
+}
